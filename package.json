@@ -1,12 +1,12 @@
 {
   "name": "musicbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A interactive music bot!!",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "Adiber",
+  "author": "Hypen",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.5.1",
